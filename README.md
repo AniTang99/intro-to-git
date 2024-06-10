@@ -178,7 +178,7 @@ These merge conflicts must be resolved and committed before the merge can be com
 Merge conflict demo
 
 ```
-Modify this line in main and in a second branch and merge
+Modify this line in main and in a second branch and merge modified in main
 ```
 
 ## Helpful Commands
