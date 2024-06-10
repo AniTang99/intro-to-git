@@ -17,6 +17,7 @@ Git is an open source, distributed version-control system (VCS). Essentially, it
 -   [Simple Git Workflow](#simple-git-workflow)
 -   [Branching](#branches-as-far-as-the-eye-can-see)
 -   [Merging Branches](#merge-the-branch)
+-   [Helpful Commands](#helpful-commands)
 
 ## Installation
 
@@ -178,4 +179,27 @@ Merge conflict demo
 
 ```
 Modify this line in main and in a second branch and merge
+```
+
+## Helpful Commands
+
+Displays the commit history. Flags show different levels of information.
+
+```
+git log
+git log --oneline
+git log --summary
+```
+
+This "stashes" the current uncommitted changes to a stack which can be reapplied later.
+
+```
+// Stash the changes
+git stash
+
+// Apply the changes on the stash
+git stash apply
+
+// Remove the changes from the stash and apply them
+git stash pop
 ```
