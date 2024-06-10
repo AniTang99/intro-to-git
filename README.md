@@ -1,6 +1,6 @@
 # How to Git Good
 
-![Git_logo]{/assets/Git-Logo-2Color.png}
+![Git_logo](/assets/Git-Logo-2Color.png)
 
 ## Introduction
 
@@ -19,6 +19,8 @@ Git (All Platforms) - https://git-scm.com/downloads
 Git Credential Manager (Windows/Mac/Linux) - https://github.com/git-ecosystem/git-credential-manager/blob/release/docs/install.md
 
 GitHub Desktop (Windows/Mac/Linux) - https://desktop.github.com/
+
+Visual Studio Code (Windows/Mac/Linux) - https://code.visualstudio.com/download
 
 ## Configuration
 
