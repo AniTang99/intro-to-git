@@ -6,11 +6,13 @@
 
 Git is an open source, distributed version-control system (VCS). Essentially, it is a program which tracks changes to a collection of files and and allows multiple users to share and work on files at the same time without affecting each other (mostly).
 
+![Merge Conflicts](/assets/winter-is-coming-brace-yourself-merge-conflicts-are-coming.webp)
+
 ## Overview
 
--   Installation
--   Configuration
--   Setup/Clone Repositories
+-   [Installation](#installation)
+-   [Configuration](#configuration)
+-   [Initialize/Clone Repositories](#initialize-or-clone-repositories)
 
 ## Installation
 
@@ -44,12 +46,20 @@ Now you're set to get started with Git!
 
 The following is a short list of terms frequently used when using Git. There are many more but this will be a good starting point.
 
--   Repository (repo):
--   Commit:
--   Branch:
--   Working Directory:
--   Staging Area:
+-   Repository (repo): The directory, located at the top level of a working tree, where Git keeps all the history and metadata for a project. Repositories are almost always referred to as repos.
+
+-   Commit: a Git object, a snapshot of your entire repository compressed into a SHA.
+
+-   Branch: a lightweight movable pointer to a commit.
+
+-   Working Directory: The set of nested directories and files that contain the project that's being worked on.
+
+-   Staging Area: The staging area is a middle ground between what you have done to your files (the working directory) and what you have last committed (the HEAD commit).
+
 -   Local:
+
 -   Remote:
 
 ## Initialize or Clone Repositories
+
+Intentional merge conflict time!
