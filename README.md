@@ -1,4 +1,4 @@
-# How to Git Good
+# How to Git Gud
 
 ![Git_logo](/assets/git-gud.jpg)
 
