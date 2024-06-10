@@ -62,4 +62,4 @@ The following is a short list of terms frequently used when using Git. There are
 
 ## Initialize or Clone Repositories
 
-Intentional merge conflict time! Conflict 2
+Intentional merge conflict time! Conflict 1 Conflict 2
