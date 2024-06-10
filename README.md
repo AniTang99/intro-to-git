@@ -202,4 +202,7 @@ git stash apply
 
 // Remove the changes from the stash and apply them
 git stash pop
+
+// Clears all stash entries
+git stash clear
 ```
